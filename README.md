@@ -1,12 +1,12 @@
 # CapTouch RGB
 
-source code :
+Origional source code :
 
 https://github.com/CurtisIreland/electronics/tree/master/Ard-TFTButtons
 
-origional code uses a resistive touchscreen
-Edited code uses capasitive touchscreen
-Also, modified rgb pinout to use pins 44,45 and 46 on arduino mega
+Origional code uses a resistive touchscreen.
+Edited code uses capasitive touchscreen.
+Also, modified rgb pinout to use pins 44,45 and 46 on arduino mega.
 
 
 
